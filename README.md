@@ -14,22 +14,22 @@ TrueColors is a mobile application designed to help color-blind individuals by p
 Here’s a preview of the app:
 
 1. **Home Screen**:
-   <img src="screenshots/home-screen.png" width="250" />
+   <img src="screenshots/home-screen.jpg" width="250" />
 
 1. **Process Screen**:
-   <img src="screenshots/process-screen.png" width="250" />
+   <img src="screenshots/process-screen.jpg" width="250" />
 
 1. **Protan Output**:
-   <img src="screenshots/protan.png" width="250" />
+   <img src="screenshots/protan.jpg" width="250" />
 
 1. **Deutan Output**:
-   <img src="screenshots/deutan.png" width="250" />
+   <img src="screenshots/deutan.jpg" width="250" />
 
 1. **Tritan Output**:
-   <img src="screenshots/tritan.png" width="250" />
+   <img src="screenshots/tritan.jpg" width="250" />
 
 1. **Caption Output**:
-   <img src="screenshots/caption-output.png" width="250" />
+   <img src="screenshots/caption-output.jpg" width="250" />
 
 ## Installation
 
